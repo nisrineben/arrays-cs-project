@@ -1,4 +1,5 @@
 package samplearrays;
+
 import java.util.Arrays;
 public class CourseNumbersArray {
     public static int[] addCourse(int[] array,int course) {
